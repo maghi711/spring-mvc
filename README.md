@@ -1,2 +1,2 @@
 # spring-mvc
-Spring MVC application
+Spring MVC 4 web application
